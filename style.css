@@ -11,3 +11,11 @@ h1 {
 body {
     background-color: black;
 }
+
+img {
+    width: 100px;
+}
+
+div {
+    color: white;
+}
